@@ -8,44 +8,33 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Senior Systems Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Infosys Technologies Ltd
+  url: "https://www.infosys.com/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+resume: "files/Hemachandran_Nedumaran.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate software engineer with 3.3 years of working experience.As a BI developer ,involved in creating the business reports using the reporting tools like SAP BO and Crystal Reports.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "hemachandran.maran@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
-
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "https://github.com/NHemachandran"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/hemachandran-nedumaran-634799104"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
