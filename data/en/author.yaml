@@ -1,0 +1,16 @@
+# some information about you
+name: "Hemachandran Nedumaran"
+nickname: "Hemachandran"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/john.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "Hemachandran.maran@gmail.com"
+  phone: "+91 8220975525"
+
+# some summary about what you do
+summary:
+  - I am a BI Developer
+  - I am a Data Science Enthusiast.
+  - I love to work with some fun projects
